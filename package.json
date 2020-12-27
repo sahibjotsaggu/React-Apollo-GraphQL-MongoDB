@@ -8,7 +8,14 @@
     "start": "next start"
   },
   "dependencies": {
+    "@apollo/client": "^3.3.6",
+    "apollo-boost": "^0.4.9",
+    "apollo-server-micro": "^2.19.1",
+    "graphql-tools": "^7.0.2",
+    "mongodb": "^3.6.3",
+    "mongoose": "^5.11.8",
     "next": "10.0.4",
+    "next-with-apollo": "^5.1.0",
     "react": "17.0.1",
     "react-dom": "17.0.1"
   }
